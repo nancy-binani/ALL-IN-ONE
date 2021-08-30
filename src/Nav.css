@@ -1,0 +1,47 @@
+
+  
+  .Complete {
+    margin-top: 20px;
+    height: 30rem;
+    width: 27rem;
+    justify-content: center;
+    background: linear-gradient(to bottom, black 5%, rgba(99, 95, 95, 0.425) 35%, #db44a1 80%);
+    border-radius: 10%;
+   
+  }
+  .row{
+    height: 10rem;
+    
+  }
+ 
+  .col1 img{
+      height:7rem;
+      margin-left: 3.7rem;
+      margin-top: 28px;
+      padding-right: 30px;
+      
+  }
+  .col2 img{
+    height:7rem;
+    margin-left: 3.6rem;
+    padding-right: 30px;
+    margin-top: 28px;
+}
+
+.col3 img{
+    height:7rem;
+    margin-left: 7.5rem; 
+    margin-top: 28px;
+}
+
+img:hover{
+    transform: scale(1.15);
+    opacity: 0.8;
+   
+}
+
+h1{
+    color: white;
+    margin-left: 3.3rem;
+    
+}

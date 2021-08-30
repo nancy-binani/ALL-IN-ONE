@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    font-family: cursive;
+}
+.notes{
+    height: 30rem;
+    width:20rem;
+    border:1px solid white;
+    background: linear-gradient(to bottom, black 0%, pink 100%);
+
+}
+
+.inp{
+    height:3.9rem;
+    width: 13rem;
+    margin-right: 30px;
+    border-bottom: 4px solid black;
+    text-align: center;
+    outline: none;
+    background-color: rgb(201, 230, 227);
+}
+
+.sub{
+    height: 3.8rem;
+    width: 4rem;
+    position: relative;
+    top:21px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: rgb(116, 197, 23);
+    
+    color: white;
+    border-bottom: 4px solid black;
+}
+
+.task{
+    height: 2rem;
+    width: 10rem;
+    color:rgb(235, 210, 165);
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.taskbtn{
+    height: 2.5rem;
+    width: 3rem;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: rgb(241, 15, 83);
+    color: whitesmoke;
+    position: absolute;
+    left:13.5rem;
+    border-bottom: 3px solid black;
+}
+
+.lis{
+    list-style: none;
+    position: relative;
+    margin-bottom:20px;
+}
+
